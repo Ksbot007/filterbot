@@ -13,7 +13,7 @@ def is_enabled(value, default):
 class script(object):
     
     START_TXT = environ.get("START_TXT", '''<b>HELLO {},
-MY NAME IS <a href=https://t.me/{}>{}</a>, I CAN PROVIDE MOVIES, JSUT ADD ME TO YOUR GROUP AND MAKE ME ADMIN.. THEN SEE MY POWERS ♥️♥️🔥''')
+MY NAME IS <a href=https://t.me/{}>{}</a>, I CAN PROVIDE MOVIES, JUST ADD ME TO YOUR GROUP AND MAKE ME ADMIN.. THEN SEE MY POWERS ♥️♥️🔥''')
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
