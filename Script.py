@@ -12,10 +12,10 @@ def is_enabled(value, default):
 
 class script(object):
     
-    START_TXT = environ.get("START_TXT", '''**ʜᴇʟʟᴏ** kunal,
-**ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs,
+    START_TXT = environ.get("START_TXT", '''<b>ʜᴇʟʟᴏ</b> kunal,
+<b>ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs,
 ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ.
-ɪ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ 😇**''')
+ɪ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ 😇</b>''')
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
