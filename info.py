@@ -80,3 +80,9 @@ if SELF_DELETE == "True":
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
 DOWNLOAD_TEXT_URL = "https://t.me/ksbots/6"
+
+    # Custom Caption Under Button #
+CAPTION_BUTTON = ""
+CAPTION_BUTTON_URL = ""
+
+   # Auto Delete For Bot Sending Files #
